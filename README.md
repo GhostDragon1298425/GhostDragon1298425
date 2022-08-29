@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhostDragon1298425
 - 👀 I’m interested in ... tech as a whole.
-- 🌱 I’m currently learning ... Information Security.
+- 🌱 I’m currently learning ... Responsive Web Design.
 - 💞️ I’m looking to collaborate on ... nothing at this time. Always looking to make friends and learn from them though.
 
 <!---
